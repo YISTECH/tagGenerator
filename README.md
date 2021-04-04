@@ -5,3 +5,9 @@ Generates hashtags for use in apps like Twitter,Instagram and Facebook. Need to 
 - Instagram
 - Facebook
 - Twitter
+
+### USAGE :
+```
+sudo 
+```
+

@@ -8,6 +8,8 @@ Generates hashtags for use in apps like Twitter,Instagram and Facebook. Need to 
 
 ### USAGE :
 ```
-sudo 
+$git clone https://github.com/YISTECH/tagGenerator.git
+$cd tagGenerator/
+$java tagGenerator
 ```
 
